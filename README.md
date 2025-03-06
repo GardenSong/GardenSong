@@ -3,6 +3,9 @@
   <img src="https://imgur.com/4eb6eKx.png" alt="GitHub Banner" width="100%">
 </p>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/GardenSong" width="5000" height="500"/>
+</a>
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
