@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://imgur.com/a/SNikibr.png" alt="GitHub Banner" width="100%">
+  <img src="https://imgur.com/4eb6eKx.png" alt="GitHub Banner" width="100%">
 </p>
 
 
