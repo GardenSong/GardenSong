@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/GardenSong" width="5000" height="500"/>
+  <img src="https://render.gitanimals.org/farms/GardenSong" width="500" height="50"/>
 </a>
 
 <!-- 타이핑 애니메이션 -->
